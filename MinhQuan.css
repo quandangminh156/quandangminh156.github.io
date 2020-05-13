@@ -1,0 +1,29 @@
+.question{
+    text-align: center;
+    font-size: 40px;
+    color: darkorchid;
+    font-family: cursive;
+}
+
+.answer{
+    text-align: center;
+    font-size: 38px;
+    color: dodgerblue;
+    font-family: monospace;
+}
+
+.submission{
+    text-align: center;
+    font-size: 30px;
+}
+
+.comment{
+    text-align: center;
+    color: crimson;
+}
+
+body{
+    background-image: url(https://img.freepik.com/free-vector/minimal-love-hearts-background-with-text-space_1017-23417.jpg?size=626&ext=jpg);
+}
+
+

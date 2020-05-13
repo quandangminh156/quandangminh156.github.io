@@ -1,0 +1,19 @@
+.header{
+    text-align: center;
+    font-size: 50px;
+    color: mediumpurple;
+    font-family: monospace;
+}
+
+h2{
+    font-size: 150px;
+}
+
+p{
+    background-color: gold;
+    color: royalblue;
+}
+
+body{
+    background-image: url(https://i.pinimg.com/originals/96/c4/da/96c4da0462b64fdd20e9bd3d0092d616.png);
+}
