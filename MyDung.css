@@ -1,0 +1,19 @@
+.header{
+    text-align: center;
+    font-size: 50px;
+    color: mediumpurple;
+    font-family: monospace;
+}
+
+h1{
+    font-size: 50px;
+}
+
+p{
+    background-color: gold;
+    color: royalblue;
+}
+
+body{
+    background-image: url(https://lh3.googleusercontent.com/proxy/ffNm-xuYWRMc_M8_ERk9YalGwcUBhLX5TNck3XJEs4tbUVSTx11JKjvoLTmalltFNJBnyKKNrBAf94hawWvQWPINFi0XQ7JQmIyW-jZQVZHib0ghdnQ5lEv6g-JFGOs9KF7kOXSWEEOrMJljDFep7VvfDQkEo6w);
+}
